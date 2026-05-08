@@ -1,4 +1,4 @@
-## Hi, I'm Krish Patel 🖥️
+## Hi, I'm Krish Patel 😎
 
 🎓 **Computer Science Student** @ Western University<br/>
 🚀 **Engineering Fellow** @ The 120-Day Elite Technical Sprint<br/>
