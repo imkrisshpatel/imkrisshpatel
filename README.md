@@ -1,7 +1,7 @@
 ## Hi, I'm Krish Patel 😎
 
 <code>🎓 **Computer Science Student** @ Western University</code><br/>
-<code>🔥 **Executing** a high-intensity 4-month technical sprint</code><br/>
+<code>🔥 **Prev @** Headstarter AI, Zippi AI </code><br/>
 <code>🏗️ **Building** autonomous AI agents & high-concurrency systems</code><br/>
 <code>🚀 **Shipping** production-grade code daily to bridge the gap</code>
 
